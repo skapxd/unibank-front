@@ -1,4 +1,4 @@
 {
     "workspaceFolder": "azdo",
-    "postCreateCommand": "git clone https://UniBankDevops@dev.azure.com/UniBankDevops/OnboardingPrestamosAuto/_git/BackendOnboardingPrestamos"
+    "postCreateCommand": "git clone https://UniBankDevops@dev.azure.com/UniBankDevops/OnboardingPrestamosAuto/_git/BackendOnboardingPrestamos azdo"
 }
